@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "nome": "Smartphone XYZ",
+    "categoria": "Celulares",
+    "quantidade": 10,
+    "preco": 1999.99
+  },
+  {
+    "id": 2,
+    "nome": "Samsung Galaxy S24",
+    "categoria": "Smartphones",
+    "quantidade": 8,
+    "preco": 2670
+  },
+  {
+    "id": 3,
+    "nome": "Notebook Dell Inspiron",
+    "categoria": "Computadores",
+    "quantidade": 5,
+    "preco": 3399.9
+  },
+  {
+    "id": 4,
+    "nome": "MacBook Air M4",
+    "categoria": "Computadores",
+    "quantidade": 9,
+    "preco": 8000
+  },
+  {
+    "id": 5,
+    "nome": "Fone Bluetooth Sony",
+    "categoria": "Acessórios",
+    "quantidade": 15,
+    "preco": 185
+  },
+  {
+    "id": 6,
+    "nome": "Carregador Turbo 65W",
+    "categoria": "Acessórios",
+    "quantidade": 25,
+    "preco": 89.9
+  },
+  {
+    "id": 7,
+    "nome": "Monitor LG 24\"",
+    "categoria": "Monitores",
+    "quantidade": 7,
+    "preco": 562.5
+  },
+  {
+    "id": 8,
+    "nome": "Tablet Samsung Galaxy Tab s10 lite",
+    "categoria": "Tablets",
+    "quantidade": 9,
+    "preco": 2299.9
+  },
+  {
+    "id": 9,
+    "nome": "Mouse Gamer Razer",
+    "categoria": "Periféricos",
+    "quantidade": 14,
+    "preco": 410
+  },
+  {
+    "id": 10,
+    "nome": "Teclado Mecânico Logitech",
+    "categoria": "Periféricos",
+    "quantidade": 11,
+    "preco": 449.9
+  }
+]
