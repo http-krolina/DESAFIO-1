@@ -21,5 +21,5 @@ Sistema de gerenciamento de inventário para a loja AgilStore, desenvolvido em N
 
 1. **Clone ou baixe os arquivos:**
    ```bash
-   git clone 
+   git clone https://github.com/http-krolina/DESAFIO-1.git 
    cd agilstore
